@@ -23,9 +23,9 @@ Some remarks:
 
 #### Configuring the theme
 
-The default theme colors and fonts can be changed directly from the Writing Room, without having to edit the theme or redeploy the application.
+*The default theme colors and fonts can be changed directly from the Writing Room, without having to edit the theme or redeploy the application.
 
-You can either change the default theme, or create a new one and set the active theme by pointing the "theme" bookmark to the theme you want to use.
+*You can either change the default theme, or create a new one and set the active theme by pointing the "theme" bookmark to the theme you want to use.
 
 #### Activating Disqus comments
 
@@ -40,12 +40,12 @@ TODO
 
 #### Customizing the blog engine
 
-The best way to adapt the blog engine to your need is to simply fork the code base and make the modifications
+*The best way to adapt the blog engine to your need is to simply fork the code base and make the modifications
 you need, directly in the code.
 
-The application is based on the [Slim microframework](http://www.slimframework.com/).
+*The application is based on the [Slim microframework](http://www.slimframework.com/).
 
-Most of the application (routes and controllers) are located in the [app/app.php](https://github.com/prismicio/blogtemplate/blob/master/app/app.php) file.
+*Most of the application (routes and controllers) are located in the [app/app.php](https://github.com/prismicio/blogtemplate/blob/master/app/app.php) file.
 
 #### License
 
